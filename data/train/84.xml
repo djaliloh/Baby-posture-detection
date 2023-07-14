@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>84.jpg</filename>
+	<path>/home/hamza/ObjectDetection/data/train/84.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>681</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sit</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>210</xmin>
+			<ymin>249</ymin>
+			<xmax>533</xmax>
+			<ymax>660</ymax>
+		</bndbox>
+	</object>
+</annotation>
